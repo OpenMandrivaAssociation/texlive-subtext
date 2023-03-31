@@ -1,6 +1,6 @@
 Name:		texlive-subtext
 Version:	51273
-Release:	1
+Release:	2
 Summary:	Easy text-style subscripts in math mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subtext
