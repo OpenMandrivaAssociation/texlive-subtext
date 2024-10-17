@@ -3,7 +3,7 @@ Version:	51273
 Release:	2
 Summary:	Easy text-style subscripts in math mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subtext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/subtext
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subtext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subtext.doc.r%{version}.tar.xz
